@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Buildbot](https://github.com/Orel6505/Buildbot)
 
-- 🌱 I’m currently learning **Android App Development (Java), Python, and .NET (.NET at school)**
+- 🌱 I’m currently learning **Python, and C# .NET (C# .NET at school)**
 
 - 👯 I’m looking to collaborate on **[mondrian development](https://github.com/cupid-development)**
 
