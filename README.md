@@ -1,10 +1,8 @@
 <h1> Hi!👋 I'm Orel6505</h1>
 
-- 🔭 I’m currently working on [Buildbot](https://github.com/Orel6505/Buildbot)
+- 🔭 I’m currently working on some private projects 🤫
 
-- 🌱 I’m currently learning **Python, and C# .NET (C# .NET at school)**
-
-- 👯 I’m looking to collaborate on **[mondrian development](https://github.com/cupid-development)**
+- 🌱 I’m currently learning **C, Advanced OOP in Java, and Python** and studying toward my **Practical Engineer Degree in software engineering**
 
 - 🤝 I’m looking for help with **AOSP Device Trees**
 
